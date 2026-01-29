@@ -16,5 +16,3 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
-
